@@ -5,7 +5,6 @@ Enemy class is child-class that inherits from GameCharacter and represents enemi
 """
 import random
 
-
 class GameCharacter:
     """A basic class representing an in-game character (player or enemy)"""
 
