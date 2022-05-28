@@ -1,19 +1,8 @@
-""" 
-Note: Classes can be anything - nouns, something I might put 'the' in front of: the event, the idea, the mug, etc. 
-"""
 
 """ 
 'Defeat All Monsters!' (need title) - A Battle/Adventure Game - User must defeat all monsters to save the land...
 """
-""" 
-Notes/To Do: Create a 'Title Screen' - a main game message that displays when game starts with first input prompt - it will look better... 
 
-
-
---  check out: from art import tprint  --
-
--- Also, see workshop 5 user_choice() function and use it as a model for Battle Code - make code more concise and readable. 
-"""
 from a_game_pkg.characters import GameCharacter
 from a_game_pkg.characters import Player
 from a_game_pkg.characters import Enemy
