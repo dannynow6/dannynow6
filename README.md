@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dannynow6
-- 📫 How to reach me ... daniel.garro@protonmail.com | dobetterwithdan@gmail.com 
+- 📫 How to reach me ... daniel.garro@protonmail.com | dobetterwithdan@gmail.com | dgdesignanddev@gmail.com
 
 
 <!---
