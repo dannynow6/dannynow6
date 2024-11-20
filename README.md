@@ -5,7 +5,7 @@ I'm a Full Stack Developer. I'm passionate about creating web-apps that benefit 
 
 ## 🚀 About Me 
 - I co-created **[CodeNoobs]**, a coaching program for new and aspiring developers
-- **[CodeNoobs]([https://codenoobs.io/)**
+- [CodeNoobs-Website]([https://codenoobs.io/)
 - I love continuous learning
 - I am currently focused on building full stack web-apps using **[Next.js]**
 - 📷 For fun: **[I'm an amateur photographer]**
