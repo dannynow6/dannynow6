@@ -23,6 +23,8 @@ I'm a Full Stack Developer. I'm passionate about creating web-apps that benefit 
 ## 🗓️ New Projects 
 - **[Better Essay](https://betteressay.app/)**
 
+---
+
 ## 📝 Tutorials & Instruction 
 - **[CodeNoobs-Facebook](https://www.facebook.com/groups/codenoobs)**
 - **[CodeNoobs-YouTube](https://www.youtube.com/@code_noobs)**
