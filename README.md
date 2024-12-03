@@ -22,6 +22,8 @@ I'm a Full Stack Developer. I'm passionate about creating web-apps that benefit 
 
 ## 🗓️ New Projects 
 - **[Better Essay](https://betteressay.app/)**
+- Using cutting-edge AI technology, Better Essay helps you write unique, well-structured essays in no time.
+- **Tech Stack:** [Next.js, React, Tailwind CSS, Daisy UI, Firebase, Stripe API, Openai API]
 
 ---
 
