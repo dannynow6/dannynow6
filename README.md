@@ -7,14 +7,14 @@ I'm a Full Stack Developer. I'm passionate about creating web-apps that benefit 
 - I co-created **[CodeNoobs]**, a coaching program for new and aspiring developers
 - [CodeNoobs](https://codenoobs.io/)
 - I love continuous learning
-- I am currently focused on building full stack web-apps using **[Next.js]**
-- 📷 For fun: **[I'm an amateur photographer]**
+- I am currently focused on building full stack web-apps using **Next.js**
+- 📷 For fun: **I'm an amateur photographer**
 
 ---
 
 ## 🛠️ Technologies & Tools
-- **Frontend:** [React, Tailwind CSS, Bootstrap, Daisy UI, HTML, CSS]
-- **Backend:** [Node.js, Firebase, Vercel, SQL, MongoDB]
+- **Frontend:** [Next.js, React, Tailwind CSS, Bootstrap, Daisy UI, HTML, CSS]
+- **Backend:** [Node.js, Next.js, Firebase, Vercel, SQL, MongoDB]
 - **Languages:** [JavaScript, Python]
 - **Others:** [Next.js, Django]  
 
@@ -22,7 +22,7 @@ I'm a Full Stack Developer. I'm passionate about creating web-apps that benefit 
 
 ## 🗓️ New Projects 
 - **[Better Essay](https://betteressay.app/)**
-- Using cutting-edge AI technology, Better Essay helps you write unique, well-structured essays in no time.
+    - An intelligent, modern web-app that leverages AI to help users write better. 
 - **Tech Stack:** [Next.js, React, Tailwind CSS, Daisy UI, Firebase, Stripe API, Openai API]
 
 ---
@@ -36,7 +36,6 @@ I'm a Full Stack Developer. I'm passionate about creating web-apps that benefit 
 ## 📫 How to Reach Me
 If you have questions or want to collaborate, you can reach me: 
 - Email: [daniel.garro@protonmail.com]
+- Email: [dgdesignanddev@gmail.com]
 - [LinkedIn](https://linkedin.com/in/daniel-garro-151794250/)
 - [Portfolio](https://dgdesignanddev.com)
-
----
