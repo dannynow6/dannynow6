@@ -21,9 +21,12 @@ I'm a Full Stack Developer. I'm passionate about creating web-apps that benefit 
 ---
 
 ## 🗓️ New Projects 
+- **[Saveria Fine Art](https://saveriafineart.com/)**
+    - A modern and clean portfolio website for a tattoo and fine artist.
+    - **Tech Stack:** [Next.js, React, Tailwind CSS, Daisy UI, Firebase]
 - **[Better Essay](https://betteressay.app/)**
     - An intelligent, modern web-app that leverages AI to help users write better. 
-- **Tech Stack:** [Next.js, React, Tailwind CSS, Daisy UI, Firebase, Stripe API, Openai API]
+    - **Tech Stack:** [Next.js, React, Tailwind CSS, Daisy UI, Firebase, Stripe API, Openai API]
 
 ---
 
