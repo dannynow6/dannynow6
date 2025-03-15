@@ -1,44 +1,69 @@
-- 👋 Hi, I’m Danny - @dannynow6
-I'm a Full Stack Developer. I'm passionate about creating web-apps that benefit people and solve problems. I specialize in Next.js, JS, React, Tailwind CSS, Firebase, Vercel, Python, & Django.
+# Hi, I'm Daniel Garro
+
+**Full Stack Developer | AI Enthusiast | Tech Mentor**
 
 ---
 
-## 🚀 About Me 
-- I co-created **[CodeNoobs]**, a coaching program for new and aspiring developers
-- [CodeNoobs](https://codenoobs.io/)
-- I love continuous learning
-- I am currently focused on building full stack web-apps using **Next.js**
-- 📷 For fun: **I'm an amateur photographer**
+## 👨‍💻 About Me:
+
+Results-driven Full Stack Developer with 5+ years of experience building scalable, high-performance web applications. Specializing in Next.js, React, and Firebase, with expertise in scalable UI architectures, API integrations, and performance optimization. Strong problem-solver with entrepreneurial experience, a track record of launching successful apps, and expertise in mentoring and coaching developers.
 
 ---
 
-## 🛠️ Technologies & Tools
-- **Frontend:** [Next.js, React, Tailwind CSS, Bootstrap, Daisy UI, HTML, CSS]
-- **Backend:** [Node.js, Next.js, Firebase, Vercel, SQL, MongoDB]
-- **Languages:** [JavaScript, Python]
-- **Others:** [Next.js, Django]  
+## 🚀 Technical Skills:
+
+- **Frontend:** JavaScript (ES6+), React, Next.js, TypeScript, Tailwind CSS, DaisyUI, ShadCN
+- **Backend:** Firebase, Django, PostgreSQL, Stripe, OpenAI API
+- **Tools:** Figma, Affinity Suite, Insomnia, Postman, Canva, Audacity
+- **Others:** API Integration, Performance Optimization, SEO, UI/UX Design, Payment Integrations
 
 ---
 
-## 🗓️ New Projects 
-- **[Saveria Fine Art](https://saveriafineart.com/)**
-    - A modern and clean portfolio website for a tattoo and fine artist.
-    - **Tech Stack:** [Next.js, React, Tailwind CSS, Daisy UI, Firebase]
-- **[Better Essay](https://betteressay.app/)**
-    - An intelligent, modern web-app that leverages AI to help users write better. 
-    - **Tech Stack:** [Next.js, React, Tailwind CSS, Daisy UI, Firebase, Stripe API, Openai API]
+## 📌 Professional Highlights:
+
+### Founder & Developer, [Better Essay](https://betteressay.app)
+
+- Developed an AI-powered essay-writing platform leveraging Next.js, Firebase, and OpenAI API.
+
+### Co-founder & Coding Mentor, [CodeNoobs](https://www.codenoobs.io)
+
+- Created comprehensive web developer training, empowering over 1600 aspiring developers, achieving accelerated skill acquisition and job-readiness.
+
+### Founder & Developer, [DG Design & Dev](https://dgdesignanddev.com)
+
+- Offering full-stack development, SEO optimization, UI/UX design, and performance optimization services.
 
 ---
 
-## 📝 Tutorials & Instruction 
-- **[CodeNoobs-Facebook](https://www.facebook.com/groups/codenoobs)**
-- **[CodeNoobs-YouTube](https://www.youtube.com/@code_noobs)**
+## 🌟 Recent Projects:
+
+| Project                                                  | Tech Stack                                | Description                                                |
+| -------------------------------------------------------- | ----------------------------------------- | ---------------------------------------------------------- |
+| [Saveria Tattoos & Fine Art](https://saveriafineart.com) | Next.js, React, Tailwind CSS, Firebase    | Responsive portfolio showcasing tattoo & fine art.         |
+| [MiCard](https://micard.io)                              | Next.js, React, Tailwind CSS              | Digital business card platform with responsive React UI.   |
+| [Cover Better](https://coverbetter.io)                   | React, OpenAI API, Firebase, Tailwind CSS | AI-powered cover letter generator with tone customization. |
+| Cert Reports Web App                                     | Django, PostgreSQL, ReportLab             | Modernized reporting app with secure data handling.        |
 
 ---
 
-## 📫 How to Reach Me
-If you have questions or want to collaborate, you can reach me: 
-- Email: [daniel.garro@protonmail.com]
-- Email: [dgdesignanddev@gmail.com]
-- [LinkedIn](https://linkedin.com/in/daniel-garro-151794250/)
-- [Portfolio](https://dgdesignanddev.com)
+## 🎙️ Content & Community:
+
+- 🌐 [YouTube @ CodeNoobs](https://www.youtube.com/@code_noobs)
+- 📘 [Facebook Group](https://www.facebook.com/groups/codenoobs)
+
+---
+
+## 📫 Connect With Me:
+
+- 🌐 [Portfolio](https://dgdesignanddev.com)
+- 📧 [Email](mailto:daniel.garro@protonmail.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/daniel-garro-151794250)
+
+---
+
+## ✨ Why Connect With Me?
+
+- Passionate about tech innovation and mentoring developers.
+- Proven experience building and scaling successful tech projects.
+- Committed to leveraging technology to solve real-world problems.
+
