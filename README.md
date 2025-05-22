@@ -33,6 +33,10 @@ Results-driven Full Stack Developer with 5+ years of experience building scalabl
 
 - Offering full-stack development, SEO optimization, UI/UX design, and performance optimization services.
 
+### [Portfolio](https://daniel-garro-dev.web.app/) 
+
+- My developer portfolio site. 
+
 ---
 
 ## 🌟 Recent Projects:
