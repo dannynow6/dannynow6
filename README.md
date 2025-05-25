@@ -62,7 +62,7 @@ Results-driven Full Stack Developer with 5+ years of experience building scalabl
 - 🌐 [Portfolio](https://daniel-garro-dev.web.app/)
 - 🌐 [Website](https://dgdesignanddev.com/)
 - 📧 [Email](mailto:daniel.garro@protonmail.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/daniel-garro-151794250)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/garro-daniel/)
 
 ---
 
