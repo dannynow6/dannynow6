@@ -21,9 +21,9 @@ Results-driven Full Stack Developer with 5+ years of experience building scalabl
 
 ## 📌 Professional Highlights:
 
-### Founder & Developer, [Better Essay](https://betteressay.app)
+### Founder & Developer, [MotiBot](https://motibot.vercel.app/)
 
-- Developed an AI-powered essay-writing platform leveraging Next.js, Firebase, and OpenAI API.
+- Developed an AI-powered fitness and motivation platform leveraging Next.js, Supabase, and OpenAI API.
 
 ### Co-founder & Coding Mentor, [CodeNoobs](https://www.codenoobs.io)
 
