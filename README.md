@@ -21,6 +21,10 @@ Results-driven Full Stack Developer with 5+ years of experience building scalabl
 
 ## 📌 Professional Highlights:
 
+### Founder & Developer, [Simpense](https://simpense.com/)
+
+- Simple, effective expense tracking.
+
 ### Founder & Developer, [MotiBot](https://motibot.vercel.app/)
 
 - Developed an AI-powered fitness and motivation platform leveraging Next.js, Supabase, and OpenAI API.
