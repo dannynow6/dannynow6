@@ -25,7 +25,7 @@ Results-driven Full Stack Developer with 5+ years of experience building scalabl
 
 - Simple, effective expense tracking.
 
-### Founder & Developer, [MotiBot](https://motibot.vercel.app/)
+### Founder & Developer, [MotiBot](https://motibot-fitness.com/)
 
 - Developed an AI-powered fitness and motivation platform leveraging Next.js, Supabase, and OpenAI API.
 
