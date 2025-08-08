@@ -27,7 +27,7 @@ Results-driven Full Stack Developer with 5+ years of experience building scalabl
 
 ### Founder & Developer, [MotiBot](https://www.motibot-fitness.com/)
 
-- Developed an AI-powered fitness and motivation platform leveraging Next.js, Supabase, and OpenAI API.
+- AI-powered fitness and motivation app featuring custom workouts, a digital companion, and engaging gamification.
 
 ### Co-founder & Coding Mentor, [CodeNoobs](https://www.codenoobs.io)
 
